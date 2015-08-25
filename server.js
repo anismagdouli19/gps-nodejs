@@ -1,6 +1,4 @@
 // TRACKER GPRS Server
-// - Mobiquity Inc
-//   8/5/2015
 
 
 // 
